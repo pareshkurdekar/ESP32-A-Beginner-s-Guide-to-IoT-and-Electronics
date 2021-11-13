@@ -21,17 +21,17 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT,
   OLED_MOSI, OLED_CLK, OLED_DC, OLED_RESET, OLED_CS);
   
-#define WLAN_SSID       "Vasanth"
+#define WLAN_SSID       "*******"
 
-#define WLAN_PASS       "9443914610"
+#define WLAN_PASS       "********"
 
 #define AIO_SERVER      "io.adafruit.com"
 
 #define AIO_SERVERPORT  1883                  
 
-#define AIO_USERNAME    "PKV99"
+#define AIO_USERNAME    "#######"
 
-#define AIO_KEY         "aio_AMpu76OX02C6hiruQpo6OKKIk73A"
+#define AIO_KEY         "######"
 
 int relay=2;
 
